@@ -36,14 +36,17 @@ Hi there 👋, I'm Riva Ivanova and I'm from Sofia, Bulgaria. Currently I am a f
 <a href="https://www.instagram.com/quilling.factory/">instagram art account</a>
  where you can check some of my artworks. :scissors:
 
-
+</br>
+</br>
 
 <h4> Let's connect :coffee: </h4>
 
-<a href="https://www.facebook.com/RivaIIvanova/"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/facebook.png" style="width:50px;"></a>
-<a href="https://www.instagram.com/riva.ivanova/"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/instagram.png" style="max-width:50px;"></a>
-<a href="https://www.linkedin.com/in/riva-ivanova-3930281b9/"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/linkedin.png" style="max-width:50px;"></a>
-
+<div align="center">
+<a href="https://www.facebook.com/RivaIIvanova/"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/facebook.png" width="120px" height="120px"></a>
+<a href="https://www.instagram.com/riva.ivanova/"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/instagram.png" width="120px" height="120px"></a>
+<a href="https://www.linkedin.com/in/riva-ivanova-3930281b9/"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/linkedin.png" width="120px" height="120px"></a>
+</br>
+</br>
 I love connecting with different people so if you want to say hi - don't be shy, I'll be happy to meet you! :smile_cat:
  </div>
 
