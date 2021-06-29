@@ -1,12 +1,5 @@
-<header>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-  <link href="https://github.com/RivaIvanova/RivaIvanova/blob/main/assets/styles.css" rel="stylesheet">
- </header>
- 
-<div class="content">
- <h1 align="center">Riva Ivanova 👩‍💻</h1>
+
+<h1 align="center">Riva Ivanova 👩‍💻</h1>
 
 <h4> Software Development Student </h4>
 
@@ -14,34 +7,14 @@ Hi there 👋, I'm Riva Ivanova and I'm from Sofia, Bulgaria. Currently I am a f
 
 <h4> Languages and Tools: </h4>
 
- <div class="lang-tools">
-  <div class="lang-tool-element">
-     <a href="http://csharp.net/" title="C#" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/csharp.png" style="max-width:100%;"></a>
-  </div>
-    <div class="lang-tool-element">
-     <a href="https://dotnet.microsoft.com/" title="DotNetCore" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/dotnetcore.png" style="max-width:100%;"></a>
-  </div>
-    <div class="lang-tool-element">
-     <a href="https://visualstudio.microsoft.com/" title="Visual Studio" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/visualstudio.png" style="max-width:100%;"></a>
-  </div>
-    <div class="lang-tool-element">
-     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="Microsoft SQL Server" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/mssql.png" style="max-width:100%;"></a>
-  </div>
-    <div class="lang-tool-element">
-     <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" title="SQL Server Management Studio" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/ssms.png" style="max-width:100%;"></a>
-  </div>
-    <div class="lang-tool-element">     
+<a href="http://csharp.net/" title="C#" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/csharp.png" style="max-width:100%;"></a>
+<a href="https://dotnet.microsoft.com/" title="DotNetCore" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/dotnetcore.png" style="max-width:100%;"></a>
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/visualstudio.png" style="max-width:100%;"></a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" title="Microsoft SQL Server" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/mssql.png" style="max-width:100%;"></a>
+<a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15" title="SQL Server Management Studio" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/ssms.png" style="max-width:100%;"></a>
 <img title="HTML5" src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/html5.png" style="max-width:100%;">
-  </div>
-    <div class="lang-tool-element">
-     <img title="CSS3" src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/css3.png" style="max-width:100%;">
-  </div>
-     <div class="lang-tool-element">
-      <a href="https://sendgrid.com/" title="SendGrid" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/sendgrid.png" style="max-width:100%;"></a> 
-  </div>
-
- </div>
-
+<img title="CSS3" src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/css3.png" style="max-width:100%;">
+<a href="https://sendgrid.com/" title="SendGrid" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/sendgrid.png" style="max-width:100%;"></a> 
 
 <h4> Currently learning: </h4>
 
@@ -49,13 +22,8 @@ Hi there 👋, I'm Riva Ivanova and I'm from Sofia, Bulgaria. Currently I am a f
 <a href="https://angular.io/" title="Angular" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/angular.png" style="max-width:100%;"></a>
 
 <h4> Some of my projects: </h4>
-<div class="projects">
- <a href="https://github.com/RivaIvanova/PetGuide" title="PetGuide" rel="nofollow"><img title="PetGuide" src="https://github.com/RivaIvanova/RivaIvanova/blob/main/assets/gifs/PetGuide%20GIF%20300px.gif" style="max-width:200px;"></a>
-<a href="https://github.com/RivaIvanova/PetGuide" title="PetGuide" rel="nofollow"><img title="PetGuide" src="https://github.com/RivaIvanova/RivaIvanova/blob/main/assets/gifs/PetGuide%20GIF%20300px.gif" style="max-width:100%;"></a>
-<a href="https://github.com/RivaIvanova/PetGuide" title="PetGuide" rel="nofollow"><img title="PetGuide" src="https://github.com/RivaIvanova/RivaIvanova/blob/main/assets/gifs/PetGuide%20GIF%20300px.gif" style="max-width:100%;"></a>
- </div>
 
-
+<img title="PetGuide" src="https://github.com/RivaIvanova/RivaIvanova/blob/main/assets/gifs/PetGuide%20GIF%20300px.gif" style="max-width:100%;"> 
 
 <h4> :star: Fun facts: </h4>
 :cat: I'm an absolute animal lover & environmentalist! :hibiscus: so please do me a favour and be kind to every kind :heart:
@@ -67,6 +35,7 @@ Hi there 👋, I'm Riva Ivanova and I'm from Sofia, Bulgaria. Currently I am a f
 :art: I have an artistic part - I do paper quilling designs and I do have an 
 <a href="https://www.instagram.com/quilling.factory/">instagram art account</a>
  where you can check some of my artworks. :scissors:
+
 
 
 <h4> Let's connect :coffee: </h4>
