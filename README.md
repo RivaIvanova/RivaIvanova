@@ -4,7 +4,7 @@
 <h4> Software Development Student </h4>
 
 Hi there 👋, I'm Riva Ivanova and I'm from Sofia, Bulgaria. Currently I am a freshly graduated software developer and I love writting code. What I'm passionate about is being able to use my work to contribute to different projects, causes and society in general.
-
+</br>
 <h4> Languages and Tools: </h4>
 
 <a href="http://csharp.net/" title="C#" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/csharp.png"></a>
@@ -15,17 +15,18 @@ Hi there 👋, I'm Riva Ivanova and I'm from Sofia, Bulgaria. Currently I am a f
 <img title="HTML5" src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/html5.png">
 <img title="CSS3" src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/css3.png">
 <a href="https://sendgrid.com/" title="SendGrid" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/sendgrid.png"></a> 
-
+</br>
 <h4> Currently learning: </h4>
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/js.png"></a>
 <a href="https://angular.io/" title="Angular" rel="nofollow"><img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/angular.png"></a>
-
+</br>
 <h4> Some of my projects: </h4>
 
 
-<a href="https://github.com/RivaIvanova/PetGuide"><img title="PetGuide" width="250px" src="https://github.com/RivaIvanova/RivaIvanova/blob/main/assets/gifs/PetGuide%20GIF%20300px.gif"></a>
- 
+ <a href="https://github.com/RivaIvanova/PetGuide"><img title="PetGuide" width="281px" src="https://github.com/RivaIvanova/RivaIvanova/blob/main/assets/gifs/PetGuide%20GIF%20300px.gif"></a>
+ <img title="Sesil Ivanova" width="500px" src="https://github.com/RivaIvanova/RivaIvanova/blob/main/assets/gifs/Sesil%20Ivanova.gif">
+
 
 <h4> :star: Fun facts: </h4>
 :cat: I'm an absolute animal lover & environmentalist! :hibiscus: so please do me a favour and be kind to every kind :heart:
