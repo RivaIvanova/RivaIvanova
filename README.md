@@ -1,9 +1,6 @@
 
 <h1>Hi there 👋🏻, I'm Riva</h1>
 
-
-<img align="right" height="350px" src="https://scontent.fsof8-1.fna.fbcdn.net/v/t39.30808-6/250864124_6541506725890032_525480121752821106_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rJ89drgpjLUAX__k_80&_nc_ht=scontent.fsof8-1.fna&oh=03a1a8135570860252a91710eb0dd194&oe=619A76D7">
-
 <h3> About me </h3>
 
 </br>
@@ -66,18 +63,3 @@ What I love most about programming is that there is always a better way and more
 <h4>&nbsp;🎈&nbsp;HtmlPreviewer</h4>
 &nbsp;&nbsp; Preview and save HTML code with shareable URL. Small project to exercise AJAX and WebAPI. <a href="https://github.com/RivaIvanova/HtmlPreviewer">🔗</a>
 
-<hr>
-
-<h3> Let's connect ☕ </h3>
-
-<div align="center">
-<a href="https://www.facebook.com/RivaIIvanova/">
- <img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/facebook.png" width="120px" height="120px"></a>
-<a href="https://www.instagram.com/riva.ivanova/">
- <img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/instagram.png" width="120px" height="120px"></a>
-<a href="https://www.linkedin.com/in/riva-ivanova/">
- <img src="https://raw.githubusercontent.com/RivaIvanova/RivaIvanova/main/assets/icons/linkedin.png" width="120px" height="120px"></a>
-</br>
-</br>
-I love connecting with different people so if you want to say hi - don't be shy, I'll be happy to meet you! :smile_cat:
- </div>
